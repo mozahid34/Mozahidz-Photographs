@@ -3,12 +3,11 @@ import { DataserviceService } from '../services/dataservice.service';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-city',
-  templateUrl: './city.component.html',
-  styleUrls: ['./city.component.scss']
+  selector: 'app-rural',
+  templateUrl: './rural.component.html',
+  styleUrls: ['./rural.component.scss']
 })
-export class CityComponent {
-
+export class RuralComponent {
   datas:any = this.service.data;
 
   
@@ -22,9 +21,11 @@ export class CityComponent {
     console.log(this.datas);
     
   }
+
   gotoDetails(id:string) {
     this.route.navigate(['details', id])
     
 
   }
+
 }

@@ -1,1 +1,25 @@
-<p>home works!</p>
+<div class="mt-5">
+<app-hero></app-hero>
+<div class="rounded my-4">
+    <h4>All Photos</h4>
+    <!-- Cards -->
+    <div class="row" >
+        <div *ngFor="let data of datas; let i=index" class="col col-12 col-md-6 col-lg-4 gap-2">
+            <div class="card my-2"  >
+                <img src={{data.img}} class="card-img-top" style="max-height: 250px;" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{data.caption}}</h5>
+                  <h6>  Shot On: {{data.device}}</h6>
+                  <div>
+                    <span class="badge  rounded-pill text-bg-light me-2">{{data.location}}</span>
+                    <span class="badge  rounded-pill text-bg-light me-1">{{data.year}}</span>
+                  </div>
+                  <a (click)="gotoDetails(data.id)" class="btn btn-sm btn-primary my-1">View Details</a>
+                </div>
+              </div>
+
+        </div>
+
+    </div>
+</div>
+</div>

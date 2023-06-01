@@ -9,6 +9,11 @@ import { NaturalComponent } from './natural/natural.component';
 import { CloseComponent } from './close/close.component';
 import { CityComponent } from './city/city.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NavComponent } from './nav/nav.component';
+import { HeroComponent } from './hero/hero.component';
+import { NotfoundComponent } from './notfound/notfound.component';
+import { RuralComponent } from './rural/rural.component';
+import { DetailviewComponent } from './detailview/detailview.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +21,12 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     HomeComponent,
     NaturalComponent,
     CloseComponent,
-    CityComponent
+    CityComponent,
+    NavComponent,
+    HeroComponent,
+    NotfoundComponent,
+    RuralComponent,
+    DetailviewComponent
   ],
   imports: [
     BrowserModule,
