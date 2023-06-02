@@ -11,6 +11,20 @@
   "by":"Mozahid"
   },
 
+
+  {
+    "id":65,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/31522753_2169528796602023_5834119756243795968_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGayc-qr6erNAUu_L4La4v8lYaJgj8j5sWVhomCPyPmxR-keBp8t9TZpafN9IF1TTGXP0gWjvYkZawmliFAY7MA&_nc_ohc=m0J4IWSjejAAX8SF1ko&_nc_ht=scontent.fdac22-1.fna&oh=00_AfD52OhSG7c3v4-wKLaBKuQfi_9_azcYh0dUBFZPjcqq4w&oe=64A0C100",
+    "caption":"বৃষ্টি স্নাত নিকুঞ্জ ও পুঞ্জিভূত মেঘপুঞ্জ...",
+    "category": "City Life",
+    "location":"Nikunja-2, Dhaka",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+
   {
   "id":1,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96005019_2727065584181672_1470166197319237632_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGAatnf14BnbpRXLLmjWgkfpsFgdVPYcCymwWB1U9hwLBE58RR6Vg0Iji5shEiUkfLm3o-12lZ-VHRS1IjqyD4d&_nc_ohc=VE_DB4vWulkAX-63fe5&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCj6cbzDfrT7IHnz5bWn4KTw0mGdqZ_RKgd--xRpGWbag&oe=649C4EDA",
@@ -19,7 +33,7 @@
   "location":"Mirzapur, Tangail",
   "des": "",
   "year":"2018",
-  "device": "Meizu M6s",
+  "device": "Meizu M3s",
   "by":"Mozahid"
   },
 
@@ -299,23 +313,12 @@
   "by":"Mozahid"
   },
 
-  {
-  "id":24,
-  "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96106021_2727066640848233_652491766615769088_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeElGW1vP3NeU4qub2rTa4FIhKG2grXOfAeEobaCtc58B11dZZSU2YIUgR3zj90t36JzkDXKJ9e8DtXSEE2s2lwc&_nc_ohc=V0bnelosh_MAX_-s8VC&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA63_BOC9RGQqZ3curLek6KDaxjXIv2tK037y9jHfbSGQ&oe=649DA2BA",
-  "caption":"জাতীয় উদ্ভিদ উদ্যান ২০১৭",
-  "category": "Natural",
-  "location":"Mirpur, Dhaka",
-  "des": "",
-  "year":"2017",
-  "device": "Huawei Y625",
-  "by":"Mozahid"
-  },
 
   {
   "id":25,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.18169-9/12047036_1722521754636065_4128861252416513877_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHR8zieMdOOI3gJ52OSXGac1cwuBd5VLXzVzC4F3lUtfNGE6xlZOz-NGx0G24wonJVo3n95OYW5vn5oOZrLdmXd&_nc_ohc=E1la5WJMzr4AX_Hx68d&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAXbaP1xLD_TEENnr3aJjkH9AjmK6Ppd3u2saCkVPCb_Q&oe=649D85C7",
   "caption":"শাপলা তোলার দিনগুলি",
-  "category": "Natural",
+  "category": "Rural Life",
   "location":"Mirzapur, Tangail",
   "des": "শাপলার আটির ভারে নূহ্য আশিক ও রাকীব",
   "year":"2015",
@@ -375,7 +378,7 @@
   "id":30,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.18169-9/12046852_1723931827828391_7577463952212691379_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=825194&_nc_eui2=AeFzbGY3F0AuuiRZZMeFyYqpijjybsP-XRiKOPJuw_5dGLO_BJLI9P1586lMgZ-UjAsAQeTDJ6fHB8stv65mYbSA&_nc_ohc=AHQbZo3c3JoAX8xPMVc&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCLUA4DrzK3FkBzr_HzzpME-DJ4t6EbbbWENFQfEEeUdw&oe=649D9FB6",
   "caption":"শিশুর হাসি অমলিন | Innocent laugh of Children",
-  "category": "Leading Life",
+  "category": "Rural Life",
   "location":"Mirzapur, Tangail",
   "des": "",
   "year":"2015",
@@ -453,6 +456,392 @@
   "year":"2015",
   "device": "Symphony Q69",
   "by":"Mozahid"
-  }
+  },
+
+  {
+    "id":37,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.18169-9/15232296_1896346560586916_7176217619583530236_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHPp_2iXJ3m5qPQiO5f-77ETDUG4OM0E-1MNQbg4zQT7SfVLUagj2gfusEueAdNvVwONEccovuuJWvRaiEjH-cg&_nc_ohc=EmmQx4g_ZxUAX9DSizC&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBoUTfeAUL6_jLiPBqdi34kR1RlQeShZWdTap--QAMq0A&oe=64A0B543",
+    "caption":"বুনো ফুল",
+    "category": "Close Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2016",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":38,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.18169-9/16143320_1923988701156035_8324060282005939672_n.jpg?stp=dst-jpg_s720x720&_nc_cat=100&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEw9FbpmNpDitbjAI7vnTerlE37nkCIRGWUTfueQIhEZafejfULPGPPtwzrzdrFYo2nSlhpq_vFmasyQqfYIRrW&_nc_ohc=_qL7AECfjqQAX8WyFNc&_nc_ht=scontent.fdac22-1.fna&oh=00_AfB5XDO0Hs6s13hdgppY8axYQOqFHo-RXgICEcFXB4_CWA&oe=64A0BBE7",
+    "caption":"Jumping fish....",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2016",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":39,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/16797783_1940791812809057_5160087400655909361_o.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=825194&_nc_eui2=AeE_rOuQsfgWwWKrIA1-gbNr3iIcprooFYXeIhymuigVhZHyEkEjS6G5LDy6bRRQbtE9EMS8-Y_cJGcUKQsIEyXU&_nc_ohc=Lycxzzy-dycAX_cEixC&_nc_ht=scontent.fdac22-1.fna&oh=00_AfA62lM095kZT1F7scDUuxkMHQ4DCMVB_dciKVS87N6ZLA&oe=64A0D488",
+    "caption":"The Water Drop 3",
+    "category": "Close Natural",
+    "location":"BC.baid, Shakipur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":40,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/17358681_1954363184785253_7686934037301017287_o.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHy8WGWUzCxMFLrondp-wcD995AMYUIuRb33kAxhQi5FiYXWbYF6Q35rggOed4LR86Bh8vtpwBq7DQPCa_VPgk4&_nc_ohc=3n7xs-UZc_cAX-U2G3W&_nc_oc=AQmjdLtkHv1euN44uiihQs-vmo0kVO2rHh9aueU8DEW7RuoRkZvP8YsxIOdl1BORKY4&_nc_ht=scontent.fdac22-1.fna&oh=00_AfCoftEhtUm8EDFWSE8_8NsOt7MuyioMLqElLwtSYNCnCg&oe=64A0C229",
+    "caption":"Captured over net",
+    "category": "City Life",
+    "location":"Mohammadpur, Dhaka",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":41,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/17635296_1962770080611230_3885086746216743687_o.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEi-PkRUHoDoMHAKrz_dy8MnZePp9G-wOOdl4-n0b7A48uStUVMkMkGl2CAIp-RAOfJyDqA4dxbqK4_xstqJQDC&_nc_ohc=Xhm_k8UxEK4AX-6OFMl&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDosgbl0Pk_ala7mzLqTsunHju7RKy8pEYtWZc9DqHsgQ&oe=64A0CCB2",
+    "caption":"Birds Eye View City",
+    "category": "City Life",
+    "location":"Banani, Dhaka",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":42,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/18121356_1978365185718386_1951626632273704253_o.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGBmtuk_e0XM8OPT431MviZj0BHgahNQhuPQEeBqE1CG656GQ-Vk9z9p0h-RMq2jkpEbS8_JgN3MlNzMRVbtnK5&_nc_ohc=d-rgx_rFGQ4AX9i1OxG&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBASho_VwaBbryi5Oju1043-swUC-BWAK9KPoYZ9cmD7g&oe=64A0E272",
+    "caption":"স্মৃতির খড় কুঠো....",
+    "category": "Rural Life",
+    "location":"BC.baid, Shakipur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":43,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/18402325_1983736451847926_7645936385529730755_o.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEroA7Tx0ULmTO7QzIWMnXycoKhhwN4tIZygqGHA3i0hnM3roTKX3tsbpYp1YN0BrQaiEdF_tUljhM1JrF5oD-X&_nc_ohc=dlrL3isb9dwAX9vjGiI&_nc_ht=scontent.fdac22-1.fna&oh=00_AfB0iVOJKhc9cPv0S3hBViWFXnzmO09k7k4NleaB1NWoPA&oe=64A0CA20",
+    "caption":"The Ant",
+    "category": "Close Natural",
+    "location":"Mirzapur Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":44,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/18491711_1989467441274827_2776792142867625780_o.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHUFawXpMqJImep-MOzTNb2Xn2EIS9PGO9efYQhL08Y73TbwIta0dKjnsiw9OP0ntrLcHy3Z_rUZ997gYKeBiO6&_nc_ohc=o4qKS9eHeicAX8QzOB1&_nc_ht=scontent.fdac22-1.fna&oh=00_AfAB0QEIEhanUYKcpAV6Il7caCZXLJh-BbxSWmy-szuuzQ&oe=64A0BAF2",
+    "caption":"Ever Green Bangladesh..",
+    "category": "Natural",
+    "location":"Mirzapur Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":45,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/19143777_2008455162709388_5530688139795970681_o.jpg?stp=dst-jpg_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=825194&_nc_eui2=AeF_uA8d11NJBXBmgL-j_tm603iRtycCO97TeJG3JwI73nLJZmDHaK7xi8CdKiJTg4nnOF8fORJwP3cL2o0W-pox&_nc_ohc=nA3O2-OhUGEAX-yc5R-&_nc_oc=AQn6Qm-fLogOaxQV-TUXXMpO44WCBisOVUrJNnhupkrh8_iwoT_uQrdDl4D-zgUGV7A&_nc_ht=scontent.fdac22-1.fna&oh=00_AfCMP0lq3nYn9XgT7r3Vw-_JcPFvjMD-D-l-0XpcSPvGfg&oe=64A0BDEE",
+    "caption":"সাদা কালো নিউ মার্কেট এলাকা",
+    "category": "City Life",
+    "location":"New Market, Dhaka",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":46,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/19679378_2019261178295453_7300705052360179687_o.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeG6S9-XgO9Pu1XIk1k06o2nG3lZ3AMSGfYbeVncAxIZ9nGWYkyWj_ZHC9cAGvlhMATfSSdrU-_SsoJ78nC2_ABv&_nc_ohc=WyIFMUNqzk8AX9aQNha&_nc_oc=AQl2dlRwjXM_vnnCEcgA2WdrHERjNFH-ujrEtzsxcVw6wfZwhMfgwfr22xgHb5Hr87A&_nc_ht=scontent.fdac22-1.fna&oh=00_AfD-kcKi5nvE7Bun6fuF5GuoUqXP7JZ1RidO8HniuRhLwg&oe=64A0D6CD",
+    "caption":"Village cricket...",
+    "category": "Rural Life",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":47,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/19693427_2020901611464743_3105602638294860553_o.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=825194&_nc_eui2=AeFeDAZmPCK6TkVpwSDPoIj1HNJxFN8dt24c0nEU3x23brsqCc3qL6HqUhr5AaABCezhRdjvFfnub7UKYFkgHAx1&_nc_ohc=bTNHOUK2mOwAX9KVY__&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDIIFuZdc0Bej90hdH-jdleTislKIuWFJUau9yfCgSPYg&oe=64A0BF2F",
+    "caption":"চলো বাংলাদেশ",
+    "category": "City Life",
+    "location":"Dhaka, Bangladesh",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":48,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/20368726_2033682173520020_597340427655540191_o.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEwSrTkb8BaP6-9wyh4UddPY8jXt7BDdwtjyNe3sEN3C4NsPqJGaj0SmSTB_bQ5eizVaw9SHBcCg_qjEavrQE_K&_nc_ohc=EFXLXCsGU54AX8uaj1d&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDC4dnLGOfpe9ys0vwp33bbpW4DXxZPL7FJf5TIr4QnnA&oe=64A0B4CA",
+    "caption":"ফুল এবং কেবলই ফূল | Only Flower",
+    "category": "Close Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":49,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/21125801_2049377998617104_6497146075539119866_o.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHHcSRxma9xmdiFvOD7KUAfvT_T3KinV4G9P9PcqKdXgUIh9iO7rLJE62mCaxQYdxZbMqd1RNHAUcSoJ7L_YNYc&_nc_ohc=lu0wTvNJypYAX-95sLF&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDewQrzQbAhnRlio16krpw96wCeeAndetyr15nukGgi4Q&oe=64A0D0FB",
+    "caption":"বর্ষা বিকেল",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":50,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/21366758_2051577218397182_1105983236335537427_o.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeFZoGQ3nROW56gPXDYOY81gmFnx-qIIRoKYWfH6oghGgs1AeCt0aozwHapv7fFDO-Og1scM2QTeCQqhbUOEsS0V&_nc_ohc=fdniYsYfzIEAX_-3xk0&_nc_ht=scontent.fdac22-1.fna&oh=00_AfAuKeggU4f2n9Ts4tqIh__BEsJhF3xdGlYzGXHyQF5oNA&oe=64A0EAC2",
+    "caption":"কাদামাটির পথ...",
+    "category": "Rural Life",
+    "location":"BC.baid, Shakipur, Tangail",
+    "des": "ঠেলা টানছে মেহেদী আর পেছন থেকে ঠেলছে আফিফ এ তামিম",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":51,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/21368643_2051875728367331_5711449619769043526_o.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEhVMRrSh_Lg09W7qWdVxRaKtjWRO2IwRMq2NZE7YjBEwVKq6S-80xzGEgmyJoX9QMdtg5Oc6yWhiQjFjkXC_dx&_nc_ohc=fCfD9HbGsGoAX_r2FYm&_nc_ht=scontent.fdac22-1.fna&oh=00_AfB9fSB7c-L1xBJGBuQoAxaLqPgtr6iFmUus_RmHbRnRgg&oe=64A0DD61",
+    "caption":"উচ্ছাসিত জীবনের নীল প্রতিফলন",
+    "category": "Natural",
+    "location":"BC.baid, Shakipur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":52,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/21366630_2052681658286738_7938376532823747302_o.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEM1XM5xcPk_LojsuED9cOQBye71WCkAeEHJ7vVYKQB4fe4XALkRlv7vWOd_KhsmTagV8oPAUArfVPeY5xu2vCe&_nc_ohc=wN5mkjrP2q0AX_WFd9y&_nc_ht=scontent.fdac22-1.fna&oh=00_AfD77_OvG9qBwpI3mGAqeOiPS9pho5Xkt3QLWDqflTT0QQ&oe=64A0DEF4",
+    "caption":"সাঁঝের মায়া",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":53,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/21765562_2056124261275811_4914490498886921796_o.jpg?stp=dst-jpg_p180x540&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeG9h-BLX7WkF-resy_SpxfvP56tGfO5DfM_nq0Z87kN857fUrEs9MBZMGS8S0j9fJLO5Sw3SSWh-NDhRH4EWZtx&_nc_ohc=DPbVo1DM5X4AX80zArf&_nc_ht=scontent.fdac22-1.fna&oh=00_AfA4yClUwE-qJSFbg7PvMhBgz7cexfVq0kqVG5L6jSgSWw&oe=64A0D869",
+    "caption":"পথের ধুলো....",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":54,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/22520052_2070205869867650_8608048913919410758_o.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=825194&_nc_eui2=AeG3OXnTZqtix-MOSQOFEFoLO7jEckiOQEg7uMRySI5ASPinuYToi-iy_egnGvbRw4eV87N8cgy_Pb8F3RR4-CUt&_nc_ohc=BrADW50Bc8oAX_dflST&_nc_ht=scontent.fdac22-1.fna&oh=00_AfAHqXj1E0dYsiahtsjzOxOgP1bEB231J-4xWTrMWoHygQ&oe=64A0C0B5",
+    "caption":"City Sky View",
+    "category": "City Life",
+    "location":"Banani, Dhaka",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":55,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/27023873_2120069051547998_852628539954219824_o.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGLsozYQcv4ejix_H58z45udE02Sx0kE110TTZLHSQTXTJMAU-SCVvcmfYo2eiixi_ggcDH12x2_9c2EepXzHHF&_nc_ohc=Qo4lH09DOPAAX--UoQD&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDM0pSJVYtx1N1CMpRoiRg8o2hzNEfO9Nu_OM3S419tVw&oe=64A0B8A5",
+    "caption":"Destination unkonown......",
+    "category": "City Life",
+    "location":"Khilkhet, Dhaka",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":55,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/27500752_2124442284444008_8519143982342852915_o.jpg?stp=dst-jpg_s720x720&_nc_cat=104&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHy7MDc8w_of-caRzkzn71qRYxsRBzYqjlFjGxEHNiqOekFIZeWqG5Ix9ddttb0xf9E3biGNrRW0x7lrdzM_v9x&_nc_ohc=eU3uCOuFbkoAX-MsMLm&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDX4PQYMw6hN4BcpGKTW99W7xHtm50dCEPFGZAM7xyEAA&oe=64A0CF84",
+    "caption":"এই শহর যখন নীরব",
+    "category": "City Life",
+    "location":"Dhaka, Bangladesh",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":56,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/27788178_2125845814303655_7879479551443084431_o.jpg?stp=dst-jpg_s720x720&_nc_cat=107&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHYUraZ1T0OKXZUUcTiEYiCmDhXsRARyT2YOFexEBHJPYHX7PvROyFLDYELIu793SffpAWGbXUa0TNVQiow5A-R&_nc_ohc=OlpSoFFi7bIAX89uPEZ&_nc_ht=scontent.fdac22-1.fna&oh=00_AfAbqwpbj8xSfOsUUlPQiciSP9gY5FmAeKDSR5tKCKOgrA&oe=64A0C2DC",
+    "caption":"ক্যারাম",
+    "category": "City Life",
+    "location":"Dhaka, Bangladesh",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":57,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/27748090_2125939830960920_3766829516002467253_o.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGUyKzH6-ZgKslVLnhQDVrkYPX5iUXc7Lhg9fmJRdzsuIrR3B55TxfTZSpIIM_KYsAia2gvtMdXVEeP2FLi8Oxp&_nc_ohc=6v6ir0goC6oAX-6tcLH&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBYkyQ6bjqq9IToIfy5WQ0NiYI1K5XYLddd1L9GccAxQw&oe=64A0E0FC",
+    "caption":"চিত্রকারের চিত্ররুপ..",
+    "category": "City Life",
+    "location":"Dhaka, Bangladesh",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":58,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/28337171_2135142883373948_7842806369375015719_o.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEW38Kh3quv7_q8QGPv_oO4yf1xJQHUhZTJ_XElAdSFlPjfKFn_BH_VMWX6WEA0suUKAW73VGTOnUejXlc_oNBk&_nc_ohc=whX8l1WqGDEAX85DDHQ&_nc_oc=AQkbIAuQ0pYcjU42lwvH5_WhSKpL1Xvj0LHFkFnq7G1apdKQAVGjranoxFV-Mj04Grs&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBaKiHKVnNWI9Wqvk_ronwe9_dFBCi7dPFyItxs9x2lsA&oe=64A0BD4E",
+    "caption":"সবুজে সবুজে",
+    "category": "Natural",
+    "location":"Shakipur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":59,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/28616823_2139232966298273_8601210660089527355_o.jpg?stp=dst-jpg_p180x540&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeESqlYvBg8pz6zY5Cpqr7poiO6BRJhoKm-I7oFEmGgqbzXmZsZ-WotrozKPFa48w5Qhp9eRYk6QCXLupRRiMN48&_nc_ohc=CcYLOwZMzfkAX-H2L_P&_nc_ht=scontent.fdac22-1.fna&oh=00_AfAgZ0BDomKTBN11OuQ9LxgOAVIwnuitAyG3D3Til8PKOg&oe=64A0E039",
+    "caption":"আম্র কাননে মুকুলের মোহনীয় ঘ্রাণ",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":60,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/28660393_2140142312874005_6570881590115696640_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=825194&_nc_eui2=AeECHPzmxWBGytVzd2o2vD6YKAduhOdoMAgoB26E52gwCGSZeTCZG2R6fh0K0cLW7de9Cd_0K8ow8cxD0_VaOMnj&_nc_ohc=PSHa7hHztV8AX8ciBpp&_nc_ht=scontent.fdac22-1.fna&oh=00_AfB7_7wb2stnAHA-x6MxEVxqwPjSlpAJj08Kepc7mxhesw&oe=64A0C4AF",
+    "caption":"বাংলাদেশের প্রতিবিম্ব...",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":61,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/28796174_2140144779540425_8751784919811751936_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEkCtg6kV_k2eXsCBcExSYGChTDth6aEcUKFMO2HpoRxYDcTc1Bk33dzjoJA_V-vRQscodh_OA9P4AaIIvkOoDV&_nc_ohc=3Of969lhMbUAX9VwXjk&_nc_oc=AQmATikUi6Zn1V8l4sqD8NBUzVfnt8sZ7QACAYNkULwvTfSTnL50PFeVuyRAXdGdDH8&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDAm7BHXvcJRkY1SlauotXgxsktS5mUpzxh2AbMOFIOYQ&oe=64A0E56C",
+    "caption":"উর্ধ্বাকাশে...",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":62,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/29063608_2142194732668763_3700465250101886976_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=825194&_nc_eui2=AeH3i_vsYXaT9DPw8VwNsH98Zv4CUAwxCjdm_gJQDDEKN_9DlMGSlWuws25aRRFJPfDuw3oB6KZRr7StXSffMHhZ&_nc_ohc=mgMWVWKAh_sAX8TlyWY&_nc_oc=AQm2xs5Mo5-b7wrFWTdgubfKQmi80cJRozcI7VPYVWQDMGQzNGN51RzqEeXMMpG_1fw&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDMq0YXs1CjH7JrlDoWDQcEYbcSP-0dBOrCcHTDSUQCeA&oe=64A0C995",
+    "caption":"Affection Endless...",
+    "category": "Rural Life",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":63,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/30708960_2160644367490466_8820861922510372864_n.jpg?stp=dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=825194&_nc_eui2=AeFHwgbYEgu1j4c2fPaemVDCJJIIWyFHehgkkghbIUd6GEf1H1VDtDTcRw1nGP168mp4uX_ZSX-sxtnomtUbdmXo&_nc_ohc=1maXsIVqlBoAX_3DfKz&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBtBEKat9IiDtFgMUTI-vfI661kA05Er-3UxC1ZNZJlRg&oe=64A0D774",
+    "caption":"সবুজ ছায়া...",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":64,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/31144183_2163661667188736_5123527484523937792_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=825194&_nc_eui2=AeFh_lnmI9BpVI8Re2fOsaNf4bDuYmEvRzjhsO5iYS9HOKt6Lv234b3pEODmVN0WUze04Ai6D03sf_orYe0RscAo&_nc_ohc=Dw7Yj9hDf-cAX9G-_US&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDqxhm3bIWexmyI20cnIqbpMmtHgaaNKc2pcBSSC2Rv6A&oe=64A0C64D",
+    "caption":"বেলা দ্বি-প্রহর | Into the Mid Sunlight day",
+    "category": "City Life",
+    "location":"Dhanmondi Lake, Dhaka",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":66,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32258038_2171824386372464_49230053313085440_n.jpg?stp=dst-jpg_p180x540&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHa--_N0D1XPOE2iOPI2dDflZ7_fQWQrnyVnv99BZCufJJGvVoX2iitM85dufsMVWpBGalKYu8-7TSY3OVg0YDe&_nc_ohc=gqYZWy-vTsIAX8ojjgP&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDKdnBR2x0yx_ppXQAGU7AH5t79eEOOezyUr9QgXgnoyg&oe=64A0D337",
+    "caption":"মহারাস্তার পাড়ে...",
+    "category": "Rural Life",
+    "location":"Parbotipur, Dinajpur",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":67,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32281045_2172328672988702_4522739079678263296_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEKepajAmyFl_JcELa1A1TJqkKdJiYe58yqQp0mJh7nzLH4mT-uWj6k2XN5KPFDLxmXMK2psgidMjnPWQxcITbZ&_nc_ohc=SXXesoo4y1AAX_0u0UV&_nc_oc=AQl0mE3qhtjq1llDMHtQgvgA-1G_uz5QA_1DxzbLvXceMnJBt64PAsuIvOuL75C4aPM&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBwMHVzhBfw74Nkz0WcuuxHSh3pmzu2T6UnOkOBLaTRDA&oe=64A0CD18",
+    "caption":"ভয়াল রাতের হাতছানি",
+    "category": "Rural Life",
+    "location":"Parbotipur, Dinajpur",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":68,
+    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32218517_2172444419643794_1910386906206568448_n.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEvutqJz8RhZ3znMkKS3awtY3g08IoUHZtjeDTwihQdm1hqL0Ho7BsrwQ3-7j1Q87v_YqlLFcjEWfGoX8mNs-DD&_nc_ohc=Ti7jRaTikkUAX94oodS&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDOmwI_aACyyf6MDTT1i8dzsS2JDRhBgHjKYTIXNONC3w&oe=64A0BA10",
+    "caption":" আম গাছ, জাম গাছ, বাশ ঝাড় যেন, মিলে মিশে ওরা, আত্মীয় হেন। ",
+    "category": "Natural",
+    "location":"Parbotipur, Dinajpur",
+    "des": "",
+    "year":"2018",
+    "device": "Meizu M3s",
+    "by":"Mozahid"
+    }
 
   ]
+
+

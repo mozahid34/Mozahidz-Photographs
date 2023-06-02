@@ -8,7 +8,7 @@ export class DataserviceService {
 
   data:any;
 
-  constructor(private http:HttpClient) {
+  constructor(private http:HttpClient)  {
 
   }
 
@@ -16,7 +16,7 @@ export class DataserviceService {
   getData() {
     this.http.get('http://localhost:4200/assets/data.json').subscribe((res) => {
       this.data = res;
-      
+
     })
 }
 }

@@ -1,9 +1,7 @@
 <div class="mt-5">
-<app-hero></app-hero>
-<div class="rounded my-4">
-    <h4>All Photos</h4>
+<div class="rounded mt-5">
     <!-- Cards -->
-    <div class="row" >
+    <div class="row space" >
         <div *ngFor="let data of datas; let i=index" class="col col-12 col-md-6 col-lg-4 gap-2">
             <div class="card my-2"  >
                 <img src={{data.img}} class="card-img-top" style="max-height: 250px;" alt="...">

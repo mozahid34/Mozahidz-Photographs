@@ -1,20 +1,27 @@
-<div class="container mt-5 mh-100vh">
-    <div class="row">
-        <div class="col-12 col-md-6">
+<div class="container mt-5">
+    <div class="row space">
+        <div class="col-12 col-md-8">
             <img class="img-fluid" src={{photo.img}} alt="">
 
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-4 rel">
             <h2>Photo details</h2>
             <div class="mx-2 my-5">
                 <h3>Caption: {{photo.caption}}</h3>
                 <h4>Location: {{photo.location}} </h4>
+                <h4>Category: {{photo.category}} </h4>
                 <h4>Device: {{photo.device}} </h4>
                 <h4>Year: {{photo.year}} </h4>
                 <p>{{photo.des}}</p>
                 <h4>Captured By: {{photo.by}} </h4>
 
+                <div class="abs text-warning bg-secondary">
+                  <small>***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there </small>
+
+                </div>
+
             </div>
         </div>
     </div>
+
 </div>
