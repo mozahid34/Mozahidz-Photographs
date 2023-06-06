@@ -13,19 +13,6 @@
 
 
   {
-    "id":65,
-    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/31522753_2169528796602023_5834119756243795968_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGayc-qr6erNAUu_L4La4v8lYaJgj8j5sWVhomCPyPmxR-keBp8t9TZpafN9IF1TTGXP0gWjvYkZawmliFAY7MA&_nc_ohc=m0J4IWSjejAAX8SF1ko&_nc_ht=scontent.fdac22-1.fna&oh=00_AfD52OhSG7c3v4-wKLaBKuQfi_9_azcYh0dUBFZPjcqq4w&oe=64A0C100",
-    "caption":"বৃষ্টি স্নাত নিকুঞ্জ ও পুঞ্জিভূত মেঘপুঞ্জ...",
-    "category": "City Life",
-    "location":"Nikunja-2, Dhaka",
-    "des": "",
-    "year":"2018",
-    "device": "Meizu M3s",
-    "by":"Mozahid"
-    },
-
-
-  {
   "id":1,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96005019_2727065584181672_1470166197319237632_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGAatnf14BnbpRXLLmjWgkfpsFgdVPYcCymwWB1U9hwLBE58RR6Vg0Iji5shEiUkfLm3o-12lZ-VHRS1IjqyD4d&_nc_ohc=VE_DB4vWulkAX-63fe5&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCj6cbzDfrT7IHnz5bWn4KTw0mGdqZ_RKgd--xRpGWbag&oe=649C4EDA",
   "caption":"শীত আসে ধীরে | The winter is comming",
@@ -142,6 +129,7 @@
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -154,6 +142,7 @@
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -161,11 +150,12 @@
   "id":12,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96517213_2727066037514960_5843155315167592448_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGg1WtVMGmNJkq4SvDwAM5Rj0zhoa2Tc1OPTOGhrZNzU-JigXd1YBYcT7zo4un-q9z_hlsJXo4pPsB2K8m76kdy&_nc_ohc=e8rWaXeWEYEAX_Lp27u&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAH5EzCr-S_mYXxxJbr5f1vZqjvYAaIa7Rshi4zqilQyw&oe=649C5295",
   "caption":"ফুল এবং কেবলই ফূল | Only Flower",
-  "category": "Close Natural",
+  "category": "Flowers",
   "location":"Tangail",
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -178,6 +168,7 @@
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -190,6 +181,7 @@
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -233,11 +225,12 @@
   "id":18,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96426954_2727066324181598_7929153504143212544_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGIbGDALZmlDrFfsGiT-IGrp4ZEtwZy9N-nhkS3BnL03-sLPSHJ40PX3zUkAPKF1YVSVNLs7dBv-U0CDXrjNjmf&_nc_ohc=K6Gv4-kDUDsAX-qoZ8U&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCx4jBJL0SXVl7MsEIfIkg3Eom2Irr4u8VhexlaH3FjQg&oe=649C7CD6",
   "caption":"সরিষা ফুলে ফুলে",
-  "category": "Close Natural",
+  "category": "Flowers",
   "location":"Mirzapur, Tangail",
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -245,11 +238,12 @@
   "id":19,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/95571674_2727066374181593_7570496586438934528_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeH45G9VeHHnK8kX1IPTSY6erJpIrXoJOz6smkitegk7PuxdXia272mRVolOh3NTKFr5r3wuVRCCgINeDcU5nnFW&_nc_ohc=5Om_Eu_vyfQAX_rvjST&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCrIV2Fuk6RN5BP_9IM1kFwGdqAOFr8d11FxvX0mVUzKg&oe=649C4A63",
   "caption":"ফুলে ফুলে",
-  "category": "Close Natural",
+  "category": "Flowers",
   "location":"Mirzapur, Tangail",
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -257,11 +251,12 @@
   "id":20,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/96233049_2727066417514922_4905707036991291392_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEZCr2WuuVo79USDUk0-0zHECebbjLwYc0QJ5tuMvBhza2WiuRb2ieYe23DRpEws1GwN9gJ5s5_3PIF2KAQFpfU&_nc_ohc=mMjJmNmDthMAX-n-cw7&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBdRZg8_96cMcvRsSzzU9a-xPSnnpZoFBsqi48aiRm8iQ&oe=649C4F46",
   "caption":"ফুলে ফুলে",
-  "category": "Close Natural",
+  "category": "Flowers",
   "location":"Mirzapur, Tangail",
   "des": "",
   "year":"2016",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -286,6 +281,7 @@
   "des": "",
   "year":"2017",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -298,6 +294,7 @@
   "des": "",
   "year":"2017",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -310,6 +307,7 @@
   "des": "",
   "year":"2017",
   "device": "Huawei Y625",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -366,7 +364,7 @@
   "id":29,
   "img": "https://scontent.fdac8-1.fna.fbcdn.net/v/t1.18169-9/12036785_1723595181195389_4414123613098286831_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHl7Cvo1YthjMNN8rMupTpQNnC7l6PGTkk2cLuXo8ZOSY8M-UzcwlvJs_pXGrognCqKOmcJdpetC-mnA3H2_oVE&_nc_ohc=T6mijeQcnzcAX-Bmdp_&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA3B69IGHuWf2f5G4IZuknLP4O8qErY4C7bz3-UYAQERw&oe=649DA7BD",
   "caption":"এই যে ঢাকা",
-  "category": "Natural",
+  "category": "City Life",
   "location":"Noyatula, Moghbazar, Dhaka",
   "des": "",
   "year":"2015",
@@ -431,6 +429,7 @@
   "des": "",
   "year":"2015",
   "device": "Symphony Q69",
+  "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
   "by":"Mozahid"
   },
 
@@ -462,11 +461,12 @@
     "id":37,
     "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.18169-9/15232296_1896346560586916_7176217619583530236_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHPp_2iXJ3m5qPQiO5f-77ETDUG4OM0E-1MNQbg4zQT7SfVLUagj2gfusEueAdNvVwONEccovuuJWvRaiEjH-cg&_nc_ohc=EmmQx4g_ZxUAX9DSizC&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBoUTfeAUL6_jLiPBqdi34kR1RlQeShZWdTap--QAMq0A&oe=64A0B543",
     "caption":"বুনো ফুল",
-    "category": "Close Natural",
+    "category": "Flowers",
     "location":"Mirzapur, Tangail",
     "des": "",
     "year":"2016",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -503,6 +503,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -515,6 +516,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -539,6 +541,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -551,6 +554,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -575,6 +579,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -594,7 +599,7 @@
     "id":48,
     "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t31.18172-8/20368726_2033682173520020_597340427655540191_o.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEwSrTkb8BaP6-9wyh4UddPY8jXt7BDdwtjyNe3sEN3C4NsPqJGaj0SmSTB_bQ5eizVaw9SHBcCg_qjEavrQE_K&_nc_ohc=EFXLXCsGU54AX8uaj1d&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDC4dnLGOfpe9ys0vwp33bbpW4DXxZPL7FJf5TIr4QnnA&oe=64A0B4CA",
     "caption":"ফুল এবং কেবলই ফূল | Only Flower",
-    "category": "Close Natural",
+    "category": "Flowers",
     "location":"Mirzapur, Tangail",
     "des": "",
     "year":"2017",
@@ -623,6 +628,7 @@
     "des": "ঠেলা টানছে মেহেদী আর পেছন থেকে ঠেলছে আফিফ এ তামিম",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -635,6 +641,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -647,6 +654,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -659,6 +667,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -671,6 +680,7 @@
     "des": "",
     "year":"2017",
     "device": "Huawei Y625",
+    "note": "***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there",
     "by":"Mozahid"
     },
 
@@ -806,11 +816,23 @@
     "by":"Mozahid"
     },
 
+    {
+      "id":65,
+      "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/31522753_2169528796602023_5834119756243795968_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=825194&_nc_eui2=AeGayc-qr6erNAUu_L4La4v8lYaJgj8j5sWVhomCPyPmxR-keBp8t9TZpafN9IF1TTGXP0gWjvYkZawmliFAY7MA&_nc_ohc=m0J4IWSjejAAX8SF1ko&_nc_ht=scontent.fdac22-1.fna&oh=00_AfD52OhSG7c3v4-wKLaBKuQfi_9_azcYh0dUBFZPjcqq4w&oe=64A0C100",
+      "caption":"বৃষ্টি স্নাত নিকুঞ্জ ও পুঞ্জিভূত মেঘপুঞ্জ...",
+      "category": "City Life",
+      "location":"Nikunja-2, Dhaka",
+      "des": "",
+      "year":"2018",
+      "device": "Meizu M3s",
+      "by":"Mozahid"
+      },
+
   {
     "id":66,
     "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32258038_2171824386372464_49230053313085440_n.jpg?stp=dst-jpg_p180x540&_nc_cat=106&ccb=1-7&_nc_sid=825194&_nc_eui2=AeHa--_N0D1XPOE2iOPI2dDflZ7_fQWQrnyVnv99BZCufJJGvVoX2iitM85dufsMVWpBGalKYu8-7TSY3OVg0YDe&_nc_ohc=gqYZWy-vTsIAX8ojjgP&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDKdnBR2x0yx_ppXQAGU7AH5t79eEOOezyUr9QgXgnoyg&oe=64A0D337",
     "caption":"মহারাস্তার পাড়ে...",
-    "category": "Rural Life",
+    "category": "Natural",
     "location":"Parbotipur, Dinajpur",
     "des": "",
     "year":"2018",
@@ -832,13 +854,217 @@
 
   {
     "id":68,
-    "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32218517_2172444419643794_1910386906206568448_n.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEvutqJz8RhZ3znMkKS3awtY3g08IoUHZtjeDTwihQdm1hqL0Ho7BsrwQ3-7j1Q87v_YqlLFcjEWfGoX8mNs-DD&_nc_ohc=Ti7jRaTikkUAX94oodS&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDOmwI_aACyyf6MDTT1i8dzsS2JDRhBgHjKYTIXNONC3w&oe=64A0BA10",
+    "img":"https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/32218517_2172444419643794_1910386906206568448_n.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=825194&_nc_eui2=AeEvutqJz8RhZ3znMkKS3awtY3g08IoUHZtjeDTwihQdm1hqL0Ho7BsrwQ3-7j1Q87v_YqlLFcjEWfGoX8mNs-DD&_nc_ohc=Ti7jRaTikkUAX94oodS&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDOmwI_aACyyf6MDTT1i8dzsS2JDRhBgHjKYTIXNONC3w&oe=64A0BA10",
     "caption":" আম গাছ, জাম গাছ, বাশ ঝাড় যেন, মিলে মিশে ওরা, আত্মীয় হেন। ",
     "category": "Natural",
     "location":"Parbotipur, Dinajpur",
     "des": "",
     "year":"2018",
     "device": "Meizu M3s",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":69,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/352066556_767877701496892_5273855623604695137_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGlcYbXBvxK1aiXNvz61IHJQmS8uxZzTnBCZLy7FnNOcPFO3NicK__RS4N_0otMPvAslkWsXr-5rAuu7WdG5qK7&_nc_ohc=zERLoGTS7DgAX_LiVkZ&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCGBX1HD_yt94vz0AByJHbLF_nuCn0fePC5ftMsWcBGcg&oe=64848160",
+    "caption":"ক্রিকেট খেলার দিনগুলি | Village Cricket ",
+    "category": "Rural Life",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2017",
+    "device": "Huawei Y625",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":70,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/352396323_1256600028576286_846560502961503903_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEYcxaQdhztn61scbpa-EnDSnrMfoV9lwBKesx-hX2XAGPjop3B2p5EBJpM1SaoTXYVo2nUbdWy3v86F6h0-n07&_nc_ohc=DjZ64eo1_cYAX8FSBNQ&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDyrvSh_oMTsg-3wtk9aDqZaxoSwR7BrIIuwE9JFXUpZw&oe=64850DF9",
+    "caption":"পড়ন্ত বিকেল ",
+    "category": "Natural",
+    "location":"Kaliakoir, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":71,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/352247685_6601349459896704_6856326221378015088_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeHg0ytMtyigXiaHjegbbLA-ZUUT2Jjbp2VlRRPYmNunZQdqEWKlywGNP9gJUkNr3BU7W2j-Gok0dMyvRbGRmtMt&_nc_ohc=pONt9rHW6XUAX_1qgoi&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD1fzBliLEQ4UsGNsZ4VmmHvLXvPdO2vqduPaQBSKZmhA&oe=6485207F",
+    "caption":"ক্লান্ত দুপুর ",
+    "category": "Natural",
+    "location":"Chandra, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":72,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/351832140_952750529402554_1099754605275278636_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEcl1d8E-oKk44G-Ava3aCLRavQSI--K_9Fq9BIj74r_xE-nkivUt7_tXNCdjn9Uk7JQhQzBcp4LPbuodLfbLJe&_nc_ohc=9FgsjHK-2mkAX-JIY0b&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAhofBuCTMNyQjrzV2F65sl2jV3tGXx2hNfkTJI4-9BCA&oe=6483DFE3",
+    "caption":"হারিয়ে যাওয়া বিকেল ",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":73,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/347265441_910131866762385_3003706952546241067_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeE5inUcPPTL2A5WiJ3JIjHDJy7XS8FmKHsnLtdLwWYoe8mLsqxKrUKkMi_uxapivZvATx9LlcR75oFEQQi1sjic&_nc_ohc=B4driWBRPacAX8DVzIv&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCoT0qQD7RMy46olNxsZex2LA_vqi7_n3UTq0NrVB4nOQ&oe=64840282",
+    "caption":"চলো উড়ে বেড়াই",
+    "category": "Natural",
+    "location":"Chandra, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":74,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/347374155_2194235767447588_5307146100224692256_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeHxAc0B9nmbt2ofdXGS1syNX7dk2PKfjklft2TY8p-OSSt7zTHfagpO5t28IOzPusPJIHK1_1BAZV-_czwyzOcA&_nc_ohc=5CH-OYKODAUAX-PUHDD&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCd4E9CXZEiKbGMvKoCvf87m2TO3VwHm4mtErJ0LvmXjw&oe=6483D78F",
+    "caption":"চলো ছুটে যাই",
+    "category": "Natural",
+    "location":"Kaliakoir, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":75,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/347375317_3406258619636068_3314908280738902920_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeFpmhksHRSksIv6ee0FOCHgECoMGjzisfcQKgwaPOKx9zpBquZabv3YRuB8kCRLGFX6iPm5SEITx-wkgY7oBVyI&_nc_ohc=sXoL18Z8LWwAX9idJ7G&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBnNy_GL23r72JLUiNFv0hEVpbjF8w9PeXj9_JGpigWOg&oe=6483704F",
+    "caption":"পথের ক্লান্তি ভুলে, স্নহ ভরা তব কূলে...",
+    "category": "Natural",
+    "location":"Kaliakoir, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":76,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/347375756_587696836794222_6892713589645581725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeG8VDDKkMq1SqNlNASb9_eDpV2XbI3lDeSlXZdsjeUN5OIlYwqXnHimfjonrotqIbl5joYVNGqvPe3qVltQhtFB&_nc_ohc=skdB-RF39FsAX8RMQKE&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDuHAUmeoSc9-m0BXTRz_M9Cty6H06-XoRJqZKl3kJqxg&oe=64852A14",
+    "caption":"পথের ক্লান্তি ভুলে, স্নহ ভরা তব কূলে-২",
+    "category": "Natural",
+    "location":"Kaliakoir, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":77,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/345929883_554379049943181_7834878048066067214_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEP3eaFSSeYyZcGroazDAEg5OSsrsMCP8jk5KyuwwI_yBfMZIV3gqC_o8bPnMNW4W3491XZx4ANJtJD-x7wXewN&_nc_ohc=tiM-y69Wq6MAX-rKTWC&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBykx4ZW_y44t9nV0ASRjA1erpJheya0AC0cC9tCL-5Uw&oe=64854778",
+    "caption":"শুভ সকাল বাংলাদেশ।",
+    "category": "Natural",
+    "location":"Kaliakoir, Gazipur",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":78,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/343213475_637488798407968_2257610511095145592_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=awb3FuhvIQMAX_A1rs5&_nc_ht=scontent.fdac8-1.fna&oh=00_AfDjrg4iuvI9QlcE264XExm3iBMIcXzXRIOgF-HJqkM2vQ&oe=6484A707",
+    "caption":"এই সবুজের শ্যামল মায়ায় দৃষ্টি পড়েছে ঢাকা।।",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":79,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/341176250_600079348724991_5472788331773951343_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=jh9cOeDvXYoAX-nMTDf&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAigvBRs8FU0pBAPSe9tcIv0xgIGsPH_DiGP-BAEDgmyA&oe=64850F4E",
+    "caption":"এক আকাশে হাজার তারার মেলা।",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": "Exposure Time: 30s, Focal Length: 4.10 mm, Aperture: f/1.7, No Flash, Device: 1+ 5T",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":80,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/338993866_920262849429168_8599924070210947087_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_ohc=RiyHcYwHUnQAX-BJ5Og&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAwN5vpxznPA3_5C84OFlX1FxU1fNlz8MPd1RLGEW6n2Q&oe=6483875C",
+    "caption":"রাত্রি নেমে এলে ছন্নছাড়া ঘাসের রাজ্যে সহস্র বছরের অন্ধকার।",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": " ",
+    "year":"2023",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":81,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/310307404_3423225734565650_871281233383189663_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=NQBFMG5OOoYAX8BrQrI&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAjkHvlecCX-L9Z23hcCeLK8ChuXr5VENtogxIjgr1zqQ&oe=6484C270",
+    "caption":"চাঁদের আলোয় আলোকিত ধারা...",
+    "category": "City Life",
+    "location":"Khilgoan, Dhaka",
+    "des": " ",
+    "year":"2022",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":82,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/289648863_3336410229913868_5435269070875434665_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeET1BMcs6_1i07EG7By_X0VJfdbEgmV30Ql91sSCZXfRNjru9k-jFn2A3WFbIpLhPgwG6F1vYOeT-jthnUQl5jf&_nc_ohc=q7_79-ueMKgAX_iluMc&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD1wQRosN3CJfZ0Erlat24uyqpMQy7MUsq1-8G52Y3gHg&oe=64854112",
+    "caption":"বাতাসের যে নেই হাহাকার, পথ নেই যে পথ হারাবার।।",
+    "category": "Rural Life",
+    "location":"Mirzapur, Tangail",
+    "des": " ",
+    "year":"2022",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":83,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/288860825_3336410186580539_1351660777951453853_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGxXjwQzTzQ_U2ywmnerhwBCTRNDu4sa_AJNE0O7ixr8EHmLWaykYGX0cztFTWcflv7Qbip6h9o015HrSGVGcEX&_nc_ohc=WfV8OpmaLUoAX-U_H1m&_nc_ht=scontent.fdac8-1.fna&oh=00_AfD8TSosXYTXAtR8kY1JEDFu5knWFHU0ozF96OoURBc6mg&oe=6483DD5D",
+    "caption":"জল থৈ থৈ করে",
+    "category": "Rural Life",
+    "location":"Mirzapur, Tangail",
+    "des": " ",
+    "year":"2022",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":84,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/289847447_3336410106580547_1895069666575015609_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeFKPTaNABbss61U1bPAetzeDMy9lGdkSlQMzL2UZ2RKVIvbU_cKW4iN95Roc0JvO9EY5TCGAkEwBx2GQQQH2LPy&_nc_ohc=R10d3vu4I1cAX_N8gTm&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBthMJV6xT8_Iwmdw-5CJWDDFms4K1YDgj099J1GveEfA&oe=64848D30",
+    "caption":"মেঘ থম থম করে,",
+    "category": "Natural",
+    "location":"Mirzapur, Tangail",
+    "des": " ",
+    "year":"2022",
+    "device": "OnePlus 5T",
+    "by":"Mozahid"
+    },
+
+  {
+    "id":85,
+    "img":"https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/217432752_3075610012660559_149654585576991051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oIMaan_4fbUAX_ZwdNf&_nc_ht=scontent.fdac8-1.fna&oh=00_AfApYPTxr5IspybHt9DVZBGuDHJcUqJOUSHXAw8vsHqk4A&oe=648513AF",
+    "caption":"এই নীল মনিহার, এই স্বর্ণালী বিকেল, তোমায় দিয়ে গেলাম, শুধু মনে রেখ....",
+    "category": "Rural Life",
+    "location":"Pathorgata, Mirzapur, Tangail",
+    "des": " ",
+    "year":"2021",
+    "device": "OnePlus 5T",
     "by":"Mozahid"
     }
 

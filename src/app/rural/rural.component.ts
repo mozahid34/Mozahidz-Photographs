@@ -8,23 +8,42 @@ import { Router } from '@angular/router';
   styleUrls: ['./rural.component.scss']
 })
 export class RuralComponent {
-  datas:any = this.service.data;
+  datas:any;
+  ruralData:any = [{}];
 
-  
+
 
   constructor(private service: DataserviceService, private route:Router) {
 
   }
 
   ngOnInit(): void {
-    this.service.getData();
-    console.log(this.datas);
-    
+    this.getData();
+
+
   }
+  getData() {
+    let api = "http://localhost:4200/assets/data.json";
+    this.service.sendData(api).subscribe(res => {
+    this.datas = res;
+
+    this.datas.forEach((element: { category: string; }) => {
+      if(element?.category == "Rural Life") {
+        this.ruralData.push(element)
+
+      }
+
+
+    });
+
+
+    })
+  }
+
 
   gotoDetails(id:string) {
     this.route.navigate(['details', id])
-    
+
 
   }
 

@@ -8,22 +8,48 @@ import { Router } from '@angular/router';
   styleUrls: ['./natural.component.scss']
 })
 export class NaturalComponent implements OnInit {
-  datas:any = this.service.data;
+  datas:any;
 
-  
+  naturalData:any = [{}];
+
+
 
   constructor(private service: DataserviceService, private route:Router) {
 
   }
 
   ngOnInit(): void {
-    this.service.getData();
-    console.log(this.datas);
-    
+    this.getData();
+
+
+
+
   }
+  getData() {
+    let api = 'http://localhost:4200/assets/data.json';
+    this.service.sendData(api).subscribe((res) => {
+      this.datas = res;
+
+      this.datas.forEach((element: { category: string; }) => {
+        if(element?.category == "Natural") {
+          this.naturalData.push(element)
+
+        }
+        
+
+      });
+
+
+
+    })
+
+
+  }
+
+
   gotoDetails(id:string) {
     this.route.navigate(['details', id])
-    
+
 
   }
 

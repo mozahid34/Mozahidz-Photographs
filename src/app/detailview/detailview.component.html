@@ -4,8 +4,8 @@
             <img class="img-fluid" src={{photo.img}} alt="">
 
         </div>
-        <div class="col-12 col-md-4 rel">
-            <h2>Photo details</h2>
+        <div class="col-6 col-md-4 rel">
+            <h2 class="bg-info p-2 rounded-2">Photo details</h2>
             <div class="mx-2 my-5">
                 <h3>Caption: {{photo.caption}}</h3>
                 <h4>Location: {{photo.location}} </h4>
@@ -16,12 +16,15 @@
                 <h4>Captured By: {{photo.by}} </h4>
 
                 <div class="abs text-warning bg-secondary">
-                  <small>***Special Note: Photagraphy Bangladesh was a facebook group. Most of the photos had uploaded there from different timeline since 2015. Those photos are retrive from there </small>
+                  <small>{{photo?.note}}</small>
 
                 </div>
 
             </div>
-        </div>
+        
+
+
+      </div>
     </div>
 
 </div>

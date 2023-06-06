@@ -9,22 +9,39 @@ import { Router } from '@angular/router';
 })
 export class CloseComponent {
 
-  datas:any = this.service.data;
+  datas:any;
+  closeData:any= [{}];
 
-  
+
 
   constructor(private service: DataserviceService, private route:Router) {
 
   }
 
   ngOnInit(): void {
-    this.service.getData();
-    console.log(this.datas);
-    
+    this.getData();
+
+
   }
+  getData() {
+    let api = "http://localhost:4200/assets/data.json";
+    this.service.sendData(api).subscribe(res => {
+      this.datas = res;
+
+      this.datas.forEach((element: { category: string; }) => {
+        if(element?.category == "Close Natural") {
+          this.closeData.push(element)
+
+        }
+        console.log(this.closeData);
+
+      });
+    })
+  }
+
   gotoDetails(id:string) {
     this.route.navigate(['details', id])
-    
+
 
   }
 

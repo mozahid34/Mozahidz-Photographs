@@ -14,6 +14,8 @@ import { NotfoundComponent } from './notfound/notfound.component';
 import { RuralComponent } from './rural/rural.component';
 import { DetailviewComponent } from './detailview/detailview.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { FlowerComponent } from './flower/flower.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     HeroComponent,
     NotfoundComponent,
     RuralComponent,
-    DetailviewComponent
+    DetailviewComponent,
+    FlowerComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

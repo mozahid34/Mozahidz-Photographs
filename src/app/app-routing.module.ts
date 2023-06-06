@@ -7,6 +7,7 @@ import { CityComponent } from './city/city.component';
 import { NotfoundComponent } from './notfound/notfound.component';
 import { RuralComponent } from './rural/rural.component';
 import { DetailviewComponent } from './detailview/detailview.component';
+import { FlowerComponent } from './flower/flower.component';
 
 const routes: Routes = [
   {path:'' , redirectTo:'home', pathMatch:'full'},
@@ -15,11 +16,12 @@ const routes: Routes = [
   {path:'closenatural' , component:CloseComponent},
   {path:'citylife' , component:CityComponent},
   {path:'rural' , component:RuralComponent},
+  {path:'flower' , component:FlowerComponent},
   {path:'details/:id' , component:DetailviewComponent},
   {path:'**' , component:NotfoundComponent},
 
-  
-  
+
+
 ];
 
 @NgModule({

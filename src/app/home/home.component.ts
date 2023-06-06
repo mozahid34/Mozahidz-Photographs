@@ -10,29 +10,36 @@ import { DetailviewComponent } from '../detailview/detailview.component';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-  
-  datas:any = this.service.data;
-  
-  
+
+  datas:any;
+
+
 
   constructor(private service:DataserviceService, private route:Router) {
 
   }
 
   ngOnInit(): void {
-    this.service.getData();
-    
-  
-    
+    this.getData();
+
+  }
+  getData() {
+    let api = "http://localhost:4200/assets/data.json";
+    this.service.sendData(api).subscribe((res:any) => {
+      console.log(res);
+      this.datas = res;
+
+
+    })
   }
 
   gotoDetails(id:string) {
     this.route.navigate(['details', id])
-    
+
 
   }
 
-  
+
 
 
 

@@ -1,4 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
 .space {
-  margin-top: 125px;
+  margin-top: 100px;
 
 }
+
+
+.bg {
+  background-image: url(../../assets/bg-river.jpg);
+  // filter: blur(4px);
+  // -webkit-filter: blur(8px);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  // background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
