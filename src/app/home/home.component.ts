@@ -24,7 +24,7 @@ export class HomeComponent implements OnInit {
 
   }
   getData() {
-    let api = "http://localhost:4200/assets/data.json";
+    let api = "assets/data.json";
     this.service.sendData(api).subscribe((res:any) => {
       console.log(res);
       this.datas = res;

@@ -14,12 +14,7 @@ export class DataserviceService {
   }
 
 
-  getData() {
-    this.http.get('http://localhost:4200/assets/data.json').pipe(retry(3)).subscribe((res) => {
-      this.data = res;
 
-    })
-}
 
 sendData(api:any) {
   return this.http.get(api).pipe(retry(3));

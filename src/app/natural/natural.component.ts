@@ -26,7 +26,7 @@ export class NaturalComponent implements OnInit {
 
   }
   getData() {
-    let api = 'http://localhost:4200/assets/data.json';
+    let api = 'assets/data.json';
     this.service.sendData(api).subscribe((res) => {
       this.datas = res;
 
