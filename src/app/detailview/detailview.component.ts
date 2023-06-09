@@ -25,7 +25,7 @@ export class DetailviewComponent implements OnInit {
   }
 
   getPhotos() {
-    let api = 'http://localhost:4200/assets/data.json';
+    let api = 'assets/data.json';
     this.service.sendData(api).subscribe((photos) => {
       this.photos = photos;
       let index = this.photos.findIndex((photo:{id:string}) =>  photo.id == this.id);
