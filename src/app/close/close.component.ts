@@ -33,9 +33,10 @@ export class CloseComponent {
           this.closeData.push(element)
 
         }
-        console.log(this.closeData);
+
 
       });
+      this.closeData.shift()
     })
   }
 

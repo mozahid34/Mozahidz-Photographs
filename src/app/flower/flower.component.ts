@@ -36,6 +36,7 @@ export class FlowerComponent {
 
 
       });
+      this.flowerData.shift()
     })
   }
 

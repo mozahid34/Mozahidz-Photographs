@@ -35,9 +35,13 @@ export class NaturalComponent implements OnInit {
           this.naturalData.push(element)
 
         }
-        
+
+
 
       });
+
+      this.naturalData.shift()
+
 
 
 

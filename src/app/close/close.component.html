@@ -1,8 +1,9 @@
 <div class="row space">
+  <h6>Close natueral: {{closeData.length}}</h6>
 
     <div *ngFor="let data of closeData; let i=index" class="col col-12 col-md-6 col-lg-4 gap-2">
         <div>
-        <div  class="card my-2"  >
+        <div (click)="gotoDetails(data.id)"   class="card my-2"  >
             <img src={{data.img}} class="card-img-top" style="max-height: 250px;" alt="...">
             <div class="card-body">
               <h5 class="card-title">{{data.caption}}</h5>

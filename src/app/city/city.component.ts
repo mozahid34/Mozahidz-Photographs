@@ -32,9 +32,10 @@ export class CityComponent {
         this.cityData.push(element)
 
       }
-      
+
 
     });
+    this.cityData.shift()
     })
 
   }
